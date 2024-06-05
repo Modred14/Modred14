@@ -7,9 +7,9 @@ I'm Favour Omirin, a frontend engineer currently learning at AltSchool Africa. W
 I'm passionate about creating delightful user experiences through frontend development. Here's a bit more about me:
 
 - 👨‍💻 Frontend Engineer
-- 🌍 Currently learning at [AltSchool Africa](https://www.altschoolafrica.com)
-- ✉️ Reach me via email: [favourdomirin@gmail.com](mailto:favourdomirin@gmail.com)
-- 🔗 Check out my portfolio website: [favouromirin.dev.netlify.app](https://favouromirin.dev.netlify.app)
+- 🌍 Currently learning at <a href="https://www.altschoolafrica.com" target="_blank">AltSchool Africa</a>
+- ✉️ Reach me via email: <a href="mailto:favourdomirin@gmail.com" target="_blank">favourdomirin@gmail.com</a>
+- 🔗 Check out my portfolio website: <a href="https://favouromirin.dev.netlify.app" target="_blank">favouromirin.dev.netlify.app</a>
 - 📚 My pronouns: he/him
 - 💡 I love collaborating with people and expanding my knowledge.
 
@@ -27,9 +27,9 @@ Feel free to explore, provide feedback, or even collaborate with me on any of th
 
 I'm always open to connecting with fellow developers, learners, and enthusiasts. Feel free to reach out to me via email or connect with me on social media:
 
-- Email: [favourdomirin@gmail.com](mailto:favourdomirin@gmail.com)
-- Twitter: [omirin_favour](https://twitter.com/omirin_favour)
-- LinkedIn: [omirin-favour](https://www.linkedin.com/in/omirin-favour)
+- Email: <a href="mailto:favourdomirin@gmail.com" target="_blank">favourdomirin@gmail.com</a>
+- Twitter: <a href="https://twitter.com/omirin_favour" target="_blank">omirin_favour</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/omirin-favour" target="_blank">omirin-favour</a>
 
 Let's learn and grow together! 🌱
 
