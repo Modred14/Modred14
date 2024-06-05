@@ -9,7 +9,7 @@ I'm passionate about creating delightful user experiences through frontend devel
 - 👨‍💻 Frontend Engineer
 - 🌍 Currently learning at <a href="https://www.altschoolafrica.com" target="_blank">AltSchool Africa</a>
 - ✉️ Reach me via email: <a href="mailto:favourdomirin@gmail.com" target="_blank">favourdomirin@gmail.com</a>
-- 🔗 Check out my portfolio website: <a href="https://favouromirin.dev.netlify.app" target="_blank">favouromirin.dev.netlify.app</a>
+<!--- - 🔗 Check out my portfolio website: <a href="https://favouromirin.dev.netlify.app" target="_blank">favouromirin.dev.netlify.app</a> ---!>
 - 📚 My pronouns: he/him
 - 💡 I love collaborating with people and expanding my knowledge.
 
