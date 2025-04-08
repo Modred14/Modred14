@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-I'm Favour Omirin, a frontend engineer currently learning at AltSchool Africa. Welcome to my GitHub profile! 🚀
+I'm Favour Omirin, a frontend engineer who graduated from AltSchool Africa. Welcome to my GitHub profile! 🚀
 
 ## About Me ℹ️
 
 I'm passionate about creating delightful user experiences through frontend development. Here's a bit more about me:
 
 - 👨‍💻 Frontend Engineer
-- 🌍 Currently learning at <a href="https://www.altschoolafrica.com" target="_blank">AltSchool Africa</a>
+- 🌍 Graduated from <a href="https://www.altschoolafrica.com" target="_blank">AltSchool Africa</a>
 - ✉️ Reach me via email: <a href="mailto:favourdomirin@gmail.com" target="_blank">favourdomirin@gmail.com</a>
 - 🔗 Check out my portfolio website: <a href="https://favouromirin.netlify.app" target="_blank">favouromirin.netlify.app</a>
 - 📚 My pronouns: he/him
