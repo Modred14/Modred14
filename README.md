@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/omirin_favour?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="http://www.github.com/Modred14">
     <img src="https://github-readme-stats.vercel.app/api?username=Modred14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Modred14's GitHub stats" />
   </a>
