@@ -1,51 +1,42 @@
-# Hi there! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Favour Omirin
+=====================================================================================================================================
 
-I'm Favour Omirin, a frontend engineer who graduated from AltSchool Africa. Welcome to my GitHub profile! 🚀
+Fullstack Web Developer
+-----------------------
 
-## About Me ℹ️
+I am a fullstack web developer based in Nigeria, passionate about building scalable, user-friendly web applications. My journey in web development has been driven by a strong interest in solving real-world problems using JavaScript and its powerful ecosystem. I’m proficient in HTML, CSS, JavaScript, TypeScript, and Python, with extensive experience in frameworks and libraries such as React, Vue.js, Next.js, Angular, and Express.js. I also work with modern tools like Tailwind CSS, Bootstrap, Chakra UI, and Figma to craft responsive and accessible user interfaces. On the backend, I build robust APIs using Node.js and FastAPI, and work with databases like MongoDB and platforms like Supabase. I follow modern development workflows with Git, GitHub, RESTful APIs, and tools like Vite and ESLint. Whether it’s frontend or backend, I enjoy contributing to fast-moving projects and being part of a community that continuously pushes the boundaries of what’s possible on the web.
 
-I'm passionate about creating delightful user experiences through frontend development. Here's a bit more about me:
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [My Portfolio](http://favouromirin.netlify.app/portfolio)
+* ✉️  You can contact me at [favourdomirin@gmail.com](mailto:favourdomirin@gmail.com)
+* 🤝  I'm open to collaborating on new projects
+* ⚡  I love collaborating with people and expanding my knowledge.
 
-- 👨‍💻 Frontend Engineer
-- 🌍 Graduated from <a href="https://www.altschoolafrica.com" target="_blank">AltSchool Africa</a>
-- ✉️ Reach me via email: <a href="mailto:favourdomirin@gmail.com" target="_blank">favourdomirin@gmail.com</a>
-- 🔗 Check out my portfolio website: <a href="https://favouromirin.netlify.app" target="_blank">favouromirin.netlify.app</a>
-- 📚 My pronouns: he/him
-- 💡 I love collaborating with people and expanding my knowledge.
+<a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Modred14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/omirin_favour" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/omirin_favour?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-## My Portfolio 💼
-
-You can find my portfolio at <a href="https://favouromirin.netlify.app" target="_blank">favouromirin.netlify.app</a>. My portfolio showcases the following:
-
-- **Projects:** A collection of my work, including websites, applications, and other projects I've developed.
-- **Skills:** A list of technologies and tools I'm proficient in, such as HTML, CSS, JavaScript, React, Nodejs, and VueJs.
-- **Experience:** Details about my education, certifications, and any relevant work experience.
-- **Blog:** Articles and posts about my learning journey, frontend development tips, and more.
-
-Feel free to explore my portfolio and learn more about my work!
-
-## What You'll Find Here 📂
-
-This GitHub profile serves as a space for me to:
-
-- Share code snippets and experiments related to frontend development.
-- Document my learning journey in frontend engineering.
-- Collaborate with others on open-source projects.
-
-Feel free to explore, provide feedback, or even collaborate with me on any of the projects!
-
-## Get in Touch 📫
-
-I'm always open to connecting with fellow developers, learners, and enthusiasts. Feel free to reach out to me via email or connect with me on social media:
-
-- Email: <a href="mailto:favourdomirin@gmail.com" target="_blank">favourdomirin@gmail.com</a>
-- Twitter: <a href="https://twitter.com/omirin_favour" target="_blank">omirin_favour</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/omirin-favour" target="_blank">omirin-favour</a>
-
-Let's learn and grow together! 🌱
+### Skills
 
 
-<!---
-Modred14/Modred14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/favour.omirin7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/omirin-favour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@favourdomirin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/omirin_favour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Modred14"><img src="https://github-readme-stats.vercel.app/api?username=Modred14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Modred14's GitHub stats" /></a>
+
+<a href="http://www.github.com/Modred14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Modred14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Modred14"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Modred14&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Modred14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modred14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
