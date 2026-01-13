@@ -13,8 +13,8 @@ I am a fullstack web developer based in Nigeria, passionate about building scala
 * ⚡  I love collaborating with people and expanding my knowledge.
 
 <a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Modred14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/omirin_favour" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/omirin_favour?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/Modred14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/modred_dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/modred_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ## Skills
