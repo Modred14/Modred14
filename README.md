@@ -7,7 +7,7 @@ Fullstack Web Developer
 I am a fullstack web developer based in Nigeria, passionate about building scalable, user-friendly web applications. My journey in web development has been driven by a strong interest in solving real-world problems using JavaScript and its powerful ecosystem. I’m proficient in HTML, CSS, JavaScript, TypeScript, and Python, with extensive experience in frameworks and libraries such as React, Vue.js, Next.js, Angular, and Express.js. I also work with modern tools like Tailwind CSS, Bootstrap, Chakra UI, and Figma to craft responsive and accessible user interfaces. On the backend, I build robust APIs using Node.js and FastAPI, and work with databases like MongoDB and platforms like Supabase. I follow modern development workflows with Git, GitHub, RESTful APIs, and tools like Vite and ESLint. Whether it’s frontend or backend, I enjoy contributing to fast-moving projects and being part of a community that continuously pushes the boundaries of what’s possible on the web.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://favouromirin.netlify.app/portfolio)
+* 🖥️  See my portfolio at [My Portfolio](https://modred.dev/)
 * ✉️  You can contact me at [favourdomirin@gmail.com](mailto:favourdomirin@gmail.com)
 * 🤝  I'm open to collaborating on new projects
 * ⚡  I love collaborating with people and expanding my knowledge.
