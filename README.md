@@ -1,21 +1,6 @@
-<div align="center">
-
 # Hi, I'm Favour Omirin 👋
-### Full-Stack Software Engineer · Nigeria 🇳🇬
 
-*Building scalable, production-ready web applications that solve real problems.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-modred.dev-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://modred.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omirin--favour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omirin-favour)
-[![Twitter/X](https://img.shields.io/badge/X-modred__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/modred_dev)
-[![Medium](https://img.shields.io/badge/Medium-@favourdomirin-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@favourdomirin)
-[![Email](https://img.shields.io/badge/Email-favourdomirin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favourdomirin@gmail.com)
-
-<a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Modred14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
-</div>
+### Full-Stack Software Engineer
 
 ---
 
@@ -23,14 +8,21 @@
 
 I'm a full-stack software engineer with 2+ years of experience building scalable, production-ready web applications. I focus on delivering clean, maintainable code — from database design to polished user interfaces.
 
-My work is driven by a simple principle: **build things that actually solve problems.** Whether it's architecting an escrow-based marketplace or shipping a payment app in 32 hours to win a hackathon, I care about execution as much as ideas.
+My work is driven by a simple principle: build things that actually solve problems. Whether it's architecting an escrow-based marketplace or shipping a payment app in 32 hours to win a hackathon, I care about execution as much as ideas.
 
-```text
-🎓  BSc. Software Engineering     Obafemi Awolowo University (In Progress)
-🏆  1st Place — Techfest 5.0      Built TapPay (NFC payments) in 32 hours
-🚀  Co-Founder & CEO              Nepo Games — secure game account marketplace
-💼  Open to                       Freelance · Full-time roles · Collaborations
-```
+- 🎓 Studying Software Engineering at **Obafemi Awolowo University**
+- 🏆 First place, **Techfest 5.0** — built TapPay (NFC payments) in 32 hours
+- 🚀 Co-founder & CEO of **Nepo Games** — a secure game account marketplace
+- 🌐 Portfolio: [modred.dev](https://modred.dev)
+- 📫 Reach me at: favourdomirin@gmail.com
+- 💼 Open to freelance, full-time roles, and interesting collaborations
+
+---
+
+<a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Modred14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/modred_dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/modred_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ---
 
@@ -74,36 +66,18 @@ My work is driven by a simple principle: **build things that actually solve prob
 
 ---
 
-## Featured projects
+## Socials
 
-| # | Project | Description | Stack | Links |
-|---|---------|-------------|-------|-------|
-| 01 | **Nepo Games** | Secure game account marketplace — escrow payments, in-app chat, dispute system | Next.js · PostgreSQL · Paystack | [Live](https://nepogames.netlify.app) · [Source](https://github.com/Modred14/nepo-games) |
-| 02 | **TapPay** 🏆 | NFC tap-to-pay app — **1st place at Techfest 5.0**, shipped in 32 hours | Next.js · TypeScript · Tailwind | [Live](https://tappay.up.railway.app) · [Source](https://github.com/Missfavis-coder/PayAza/) |
+<p align="center">  <a href="https://www.linkedin.com/in/omirin-favour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="http://www.medium.com/@favourdomirin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/modred_dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a><a href="https://www.facebook.com/favour.omirin7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> </p>
 
-> See all projects → [modred.dev/projects](https://modred.dev/projects)
+## My GitHub Stats
 
----
-
-## GitHub stats
-
-<div align="center">
+<p align="center">
 
   <a href="http://www.github.com/Modred14">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Modred14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Modred14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Modred14's GitHub Streak" />
   </a>
-
-  <br/>
-
-  <a href="https://github.com/Modred14">
-    <img src="https://github-readme-stats.vercel.app/api?username=Modred14&show_icons=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/Modred14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modred14&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&layout=compact" alt="Top Languages" />
-  </a>
-
-</div>
+</p>
 
 ---
 
