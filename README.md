@@ -3,6 +3,8 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Favour%20Omirin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descColor=94a3b8)
 </div>
 
+```
+
 ```javascript
 // Software Engineering Student, OAU Ile-Ife
 const modred = {
