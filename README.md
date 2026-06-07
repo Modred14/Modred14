@@ -1,6 +1,8 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=79C0FF&background=0D111700&center=true&vCenter=true&width=600&height=50&lines=Favour+Omirin;Modred)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B949E&background=0D111700&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Web+Developer;Co-Founder+%26+CEO+%40+Nepo+Games;Software+Engineering+Student+%40+OAU;🏆+Techfest+5.0+Hackathon+Winner;Building+things+that+actually+work)](https://git.io/typing-svg)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Favour%20Omirin&fontSize=52&fontColor=79c0ff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn)
 </div>
 
 ```javascript
