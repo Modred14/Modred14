@@ -10,12 +10,12 @@ I'm a full-stack software engineer with 2+ years of experience building scalable
 
 My work is driven by a simple principle: build things that actually solve problems. Whether it's architecting an escrow-based marketplace or shipping a payment app in 32 hours to win a hackathon, I care about execution as much as ideas.
 
-- 🎓 Studying Software Engineering at **Obafemi Awolowo University**
-- 🏆 First place, **Techfest 5.0** — built TapPay (NFC payments) in 32 hours
-- 🚀 Co-founder & CEO of **Nepo Games** — a secure game account marketplace
-- 🌐 Portfolio: [modred.dev](https://modred.dev)
-- 📫 Reach me at: favourdomirin@gmail.com
-- 💼 Open to freelance, full-time roles, and interesting collaborations
+```text
+🎓  BSc. Software Engineering     Obafemi Awolowo University (In Progress)
+🏆  1st Place — Techfest 5.0      Built TapPay (NFC payments) in 32 hours
+🚀  Co-Founder & CEO              Nepo Games — secure game account marketplace
+💼  Open to                       Freelance · Full-time roles · Collaborations
+```
 
 ---
 
@@ -66,9 +66,31 @@ src="https://img.shields.io/twitter/follow/modred_dev?logo=twitter&style=for-the
 
 ---
 
-## Socials
+## Connect with me
 
-<p align="center">  <a href="https://www.linkedin.com/in/omirin-favour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="http://www.medium.com/@favourdomirin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/modred_dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a><a href="https://www.facebook.com/favour.omirin7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> </p>
+<p align="center">  
+
+  <a href="https://www.linkedin.com/in/omirin-favour" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.github.com/Modred14" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.x.com/modred_dev" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>&nbsp;
+  <a href="http://www.medium.com/@favourdomirin" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/favour.omirin7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+<a href="https://modred.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-modred.dev-0891b2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
 
 ## My GitHub Stats
 
