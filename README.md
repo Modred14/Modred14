@@ -1,20 +1,25 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Favour%20Omirin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descColor=94a3b8)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Favour%20Omirin&fontSize=52&fontColor=79c0ff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn)
 </div>
 
----
-
 ```javascript
+// Full Stack Web Developer
 // Software Engineering Student, OAU Ile-Ife
 const modred = {
   name:      "Favour Omirin",
   alias:     "Modred",
   role:      "Full-Stack Software Engineer",
   company:   "Co-Founder & CEO @ Nepo Games",
-  stack:     ["Next.js", "JavaScript", "Node.js", "PostgreSQL"],
+  stack:     ["Next.js", "JavaScript", "TypeScript", "Node.js", "PostgreSQL"],
   building:  ["Nepo Games", "TapPay", "Scissors", "Nexopra"],
   learning:  ["Backend optimization", "ML integration", "Embedded systems & robotics"],
+  achievements: [
+    "🏆 1st place — Techfest 5.0 hackathon",
+    "🎓 Graduated AltSchool Africa with a perfect 4.0 GPA",
+    "🚀 Architected full escrow marketplace solo",
+  ],
+  openTo:    ["Freelance", "Full-time roles", "Collaborations"],
   funFact:   "I enjoy late-night coding.",
 };
 ```
