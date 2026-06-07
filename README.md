@@ -3,13 +3,19 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Favour%20Omirin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descColor=94a3b8)
 </div>
 
----
-
-## About me
-
-I'm a full-stack software engineer with 2+ years of experience building scalable, production-ready web applications. I focus on delivering clean, maintainable code — from database design to polished user interfaces.
-
-My work is driven by a simple principle: build things that actually solve problems. Whether it's architecting an escrow-based marketplace or shipping a payment app in 32 hours to win a hackathon, I care about execution as much as ideas.
+```javascript
+// Software Engineering Student, OAU Ile-Ife
+const modred = {
+  name:      "Favour Omirin",
+  alias:     "Modred",
+  role:      "Full-Stack Software Engineer",
+  company:   "Co-Founder & CEO @ Nepo Games",
+  stack:     ["Next.js", "JavaScript", "Node.js", "PostgreSQL"],
+  building:  ["Nepo Games", "TapPay", "Scissors", "Nexopra"],
+  learning:  ["Backend optimization", "ML integration", "Embedded systems & robotics"],
+  funFact:   "I enjoy late-night coding.",
+};
+```
 
 ```text
 🎓  BSc. Software Engineering     Obafemi Awolowo University (In Progress)
