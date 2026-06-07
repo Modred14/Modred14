@@ -68,7 +68,7 @@ src="https://img.shields.io/twitter/follow/modred_dev?logo=twitter&style=for-the
 
 ## Connect with me
 
-<p align="center">  
+<p align="center">
 
   <a href="https://www.linkedin.com/in/omirin-favour" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
