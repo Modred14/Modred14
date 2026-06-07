@@ -1,6 +1,6 @@
 # Hi, I'm Favour Omirin 👋
 
-**Full-Stack Software Engineer** | Nigeria 🇳🇬
+**Full-Stack Software Engineer** 
 
 ---
 
