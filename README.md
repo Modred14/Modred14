@@ -3,15 +3,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Fullstack Web Developer
 -----------------------
+---
 
-I am a fullstack web developer based in Nigeria, passionate about building scalable, user-friendly web applications. My journey in web development has been driven by a strong interest in solving real-world problems using JavaScript and its powerful ecosystem. I’m proficient in HTML, CSS, JavaScript, TypeScript, and Python, with extensive experience in frameworks and libraries such as React, Vue.js, Next.js, Angular, and Express.js. I also work with modern tools like Tailwind CSS, Bootstrap, Chakra UI, and Figma to craft responsive and accessible user interfaces. On the backend, I build robust APIs using Node.js and FastAPI, and work with databases like MongoDB and platforms like Supabase. I follow modern development workflows with Git, GitHub, RESTful APIs, and tools like Vite and ESLint. Whether it’s frontend or backend, I enjoy contributing to fast-moving projects and being part of a community that continuously pushes the boundaries of what’s possible on the web.
+## About me
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](https://modred.dev/)
-* ✉️  You can contact me at [favourdomirin@gmail.com](mailto:favourdomirin@gmail.com)
-* 🤝  I'm open to collaborating on new projects
-* ⚡  I love collaborating with people and expanding my knowledge.
+I'm a full-stack software engineer with 2+ years of experience building scalable, production-ready web applications. I focus on delivering clean, maintainable code — from database design to polished user interfaces.
 
+My work is driven by a simple principle: build things that actually solve problems. Whether it's architecting an escrow-based marketplace or shipping a payment app in 32 hours to win a hackathon, I care about execution as much as ideas.
+
+- 🎓 Studying Software Engineering at **Obafemi Awolowo University**
+- 🏆 First place, **Techfest 5.0** — built TapPay (NFC payments) in 32 hours
+- 🚀 Co-founder & CEO of **Nepo Games** — a secure game account marketplace
+- 🌐 Portfolio: [modred.dev](https://modred.dev)
+- 📫 Reach me at: favourdomirin@gmail.com
+- 💼 Open to freelance, full-time roles, and interesting collaborations
+
+---
 <a href="https://www.github.com/Modred14" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Modred14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/modred_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/modred_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
